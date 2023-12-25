@@ -1,0 +1,25 @@
+/* Search.css */
+
+.search-container {
+    text-align: center;
+    margin: 20px;
+}
+
+.search-button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.suggestion-container {
+    margin-top: 10px;
+}
+
+.suggestion-item {
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #ddd;
+}
